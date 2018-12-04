@@ -1,0 +1,8 @@
+<!--pages/footer/footer.wxml-->
+<view class='footers' style='background-color: #E3EFF9;position:relative;font-size: 32rpx;'>
+<image src="../img/binary_pic.jpg" 
+style='width:90px;height:90px;padding:10px 10px 5px 10px;'></image>
+<text style='position:absolute;right:200rpx;top:35rpx;font-size:16px;font-weight:bold;color:rgb(69, 129, 142)'>卓越壹生健康管理</text>
+<text style='position:absolute;right:50rpx;top:37rpx;'>版权所有</text>
+<text style='position:absolute;right:50rpx;top:97rpx;'>地址：泸州步步高广场11楼11号</text>
+</view>
